@@ -3,7 +3,7 @@ I’m **Samson Rozansky**, a Computer Science undergraduate at **Carnegie Mellon
 
 ## Education
 - **Carnegie Mellon University** (Pittsburgh, PA)  
-  Bachelor of Science in Computer Science, graduating May 2027
+  Bachelor of Science in Computer Science, graduating May 2028
   - Concentrations:  
     - Machine Learning  
     - Computer Systems  
